@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/joaotadeu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaotadeu" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/bruno-santos-6b8ba356/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsantos27" height="30" width="40" />
   </a>
 <div />
 
@@ -33,8 +33,8 @@
 
 ##
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotadeu&layout=compact&theme=blue-green)](https://github.com/joaotadeu/github-readme-stats) 
-        <a href="http://www.github.com/joaotadeu"><img src="https://github-readme-stats.vercel.app/api?username=joaotadeu&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joaotadeu's GitHub stats" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsantos27&layout=compact&theme=blue-green)](https://github.com/bsantos27/github-readme-stats) 
+        <a href="http://www.github.com/joaotadeu"><img src="https://github-readme-stats.vercel.app/api?username=bsantos27&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bsantos27's GitHub stats" /></a>
 ###
 
 

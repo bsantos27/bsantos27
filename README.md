@@ -1,45 +1,68 @@
-###
-
-<h1 align="center">Olá, Bem vindos <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> </h1>
-
-###
+<h1 align="center">Olá, Bem-vindos 🌍</h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruno-santos-6b8ba356/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsantos27" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/bruno-santos-6b8ba356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-bruno--santos-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-<div />
+</div>
 
-###
+---
 
-<h3 align="left">🛠 Linguagens e Frameworks</h3>
+## 🛠️ Linguagens e Frameworks
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" height="40" alt="cucumber"/>
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" alt="selenium"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="oracle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" height="40" alt="macos"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="36" alt="ruby logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="36" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
-  <img src="https://icon.icepanel.io/Technology/svg/Cucumber.svg" height="36"  alt="cucumber logo" />
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="36" alt="selenium logo" />
-  <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s160-c-k-c0x00ffffff-no-rj" height="36" />
-  <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="36" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="36" />
-  <!--<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" height="36" /> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" />
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" />
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsantos27&layout=compact&theme=tokyonight)](https://github.com/bsantos27/github-readme-stats)
 
-##
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsantos27&layout=compact&theme=blue-green)](https://github.com/bsantos27/github-readme-stats) 
-        <a href="http://www.github.com/joaotadeu"><img src="https://github-readme-stats.vercel.app/api?username=bsantos27&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bsantos27's GitHub stats" /></a>
-###
-
+[![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bsantos27&show_icons=true&theme=tokyonight)](https://github.com/bsantos27/github-readme-stats)
 
 </div>
 
-###
+---
 
-###
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Testes Automatizados com Selenium](https://github.com/bsantos27/automated-tests-selenium-java) | Automação de testes web com Java e Selenium | Java, Selenium, JUnit, Maven |
+| [API Testing com Postman](https://github.com/bsantos27/api-tests-postman) | Testes de APIs REST com Postman e Newman | Postman, JSON, REST |
+| [Testes com Cypress](https://github.com/bsantos27/cypress-tests) | Automação frontend com Cypress | Cypress, JavaScript |
+| [Performance com JMeter](https://github.com/bsantos27/jmeter-tests) | Testes de carga e desempenho | JMeter |
+
+---
+
+## 💬 Sobre Mim
+
+Sou Bruno Santos, analista de requisitos e testes com experiência em QA funcional e automatizado. Tenho trabalhado com grandes empresas, como a Vivo, e sou certificado ISTQB CTFL.
+
+---
+
+## ✉️ Contato
+
+📫 **Email:** bcs.2707@gmail.com  
+📞 **Telefone:** (71) 99157-3226  
+📍 **Localização:** Salvador/BA  
+📌 **Disponível para projetos freelancer QA**
+
+
+---
+
+⭐ *Sinta-se à vontade para explorar os repositórios, contribuir com sugestões ou apenas deixar uma ⭐ se gostou!*
